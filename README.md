@@ -1,1 +1,2 @@
 I try what I have learned in these projects. New projects will continue to come
+There are 4 panels in this project: registration, user login, admin login and logout. When logging in, you will be asked for your e-mail address, name and password, and you will register to the site with this data. When you log in, you choose the subject you want to be treated for, the appointment time and date. You can view appointments and information in the admin panel, approve or reject these appointments, and the system will give feedback when you make your selection.
